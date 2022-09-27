@@ -1,0 +1,16 @@
+{
+  "name": "codingtrain_quickdraw_example",
+  "version": "0.0.1",
+  "description": "An example that I Am making on the coding train",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "ndjson": "^1.5.0"
+  }
+}
